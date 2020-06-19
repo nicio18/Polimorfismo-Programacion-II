@@ -24,4 +24,5 @@ Como acciones de las clases hijas tenemos calcularSueldo y mostrarHorasextras, l
 Dada la explicación anterior se denota el polimorfismo en las clases hijas, en las cuales métodos tienen el mismo nombre, pero cada una se comporta de una manera diferente.
 
 Diagrama subido al repositorio como diagrama.jpg
+
 4. Codificar el ejemplo del punto 3 con JavaScript.
